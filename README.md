@@ -1,6 +1,6 @@
-#ds_salary_project
+# ds_salary_project
 
-##Resource
+## Resource
 https://github.com/arapfaik/scraping-glassdoor-selenium
 
 https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905
